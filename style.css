@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Products-list{
+    /* padding: 5px; */
+    border: 1px;
+    border-radius: 3px;
+    border-color: burlywood;
+    border-style: solid;
+}
+.product-item-inside{
+    margin: 3px;
+    border-style: none;
+    background-color: bisque;
+    height: 100%;
+}
+
+.product-item{
+    padding: 3px;
+
+}
